@@ -26,4 +26,8 @@ $(document).ready(function () {
 
 	$(window).on('scroll', reveal)
 	reveal();
+
+	$('.menu-buy-img').on('click', function() {
+		$(this).addClass('active');
+	});
 })
