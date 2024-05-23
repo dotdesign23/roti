@@ -288,7 +288,7 @@ body {
 }
 
 .menu-buy-img.active {
-	transform: translateY(40rem);
+	transform:  translateY(40rem);
 }
 
 .menu-contact {
